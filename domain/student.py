@@ -10,6 +10,7 @@ class Student:
     def get_nume(self):
         return self.__nume
 
+
     def get_valoare(self):
         return self.__valoare
 
